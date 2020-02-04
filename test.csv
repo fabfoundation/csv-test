@@ -1,0 +1,5 @@
+storage_size,repository_size,wiki_size,lfs_objects_size,job_artifacts_size,commit_count,name
+1.09 MiB,1.05 MiB,0.00 B,0.00 B,38.91 KiB,33,john
+796.23 KiB,686.08 KiB,0.00 B,0.00 B,110.15 KiB,44,alice
+656.91 KiB,624.64 KiB,0.00 B,0.00 B,32.27 KiB,32,bob
+501.76 KiB,501.76 KiB,0.00 B,0.00 B,0.00 B,28,kate
